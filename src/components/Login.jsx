@@ -2,7 +2,6 @@ export default function Login() {
   function handleSubmit(event) {
     event.preventDefault();
     console.log('Submitted!');
-    
   }
 
   return (
